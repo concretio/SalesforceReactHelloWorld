@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SalesforceAnalytics/SalesforceAnalytics/Classes/Model/SFSDKDeviceAppAttributes.h

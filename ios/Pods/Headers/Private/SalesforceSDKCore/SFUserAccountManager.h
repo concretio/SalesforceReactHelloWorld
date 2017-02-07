@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Security/SFUserAccountManager.h

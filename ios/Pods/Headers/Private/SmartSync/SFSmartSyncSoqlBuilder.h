@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SmartSync/SmartSync/Classes/Util/SFSmartSyncSoqlBuilder.h

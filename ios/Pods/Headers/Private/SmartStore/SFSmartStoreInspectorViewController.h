@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SmartStore/SmartStore/Classes/SFSmartStoreInspectorViewController.h

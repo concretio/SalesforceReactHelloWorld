@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SalesforceAnalytics/SalesforceAnalytics/Classes/Manager/SFSDKAnalyticsManager+Internal.h

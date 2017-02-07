@@ -1,0 +1,1 @@
+../../../../../node_modules/SalesforceMobileSDK-iOS/libs/SalesforceSDKCore/SalesforceSDKCore/Classes/Network/Utilities/ValueTransformers/CSFUTF8StringValueTransformer.h
