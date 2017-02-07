@@ -1,6 +1,6 @@
 # SalesforceReactHelloWorld
 
-** Installation instruction **
+**Installation instruction**
   
   Clone or download this repository to your work place and 
   go to SalesforceReactHelloWorld directory
