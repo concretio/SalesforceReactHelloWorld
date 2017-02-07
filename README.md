@@ -19,6 +19,6 @@
 
   Go to ios directory and open .xcworkspace file, It will open into Xcode editor and press run button from tool menu.
 
-** Output of this project **
+**Output of this project**
 
 ![output ](./output/outputhello.gif?raw=true "") 
